@@ -5,11 +5,11 @@
     "name": "蔚蓝档案（样式2）",
     "description": "收录 24 张蔚蓝档案壁纸，希望增加的角色可以私信反馈，会在后续版本中补充。",
     "preview": [
-      "media/cover.png",
+      "media/封面图a.png",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/封面图a.png",
     "author": [
       {
         "name": "Hobjl",
